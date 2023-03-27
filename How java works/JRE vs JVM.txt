@@ -1,0 +1,11 @@
+•	Java source code is the code you write,
+•	goes into the JDK and 
+•	JDK then compiles it, there is javac compiles it and convert it into bytecode i.e., .class file
+•	Byte code runs into JVM
+•	JVM converts it into executable code, that we run into JRE and we get the output like Hello World! /Game playing/ app
+
+	JVM & JRE not having compilers only JDK having compiler.
+
+JRE vs JVM
+-JRE is the box and JVM is the actual content inside the box
+-whatever work JVM is doing, its doing with the help of JRE. Whatever the files and libraries that JVM need JRE will provide it.
